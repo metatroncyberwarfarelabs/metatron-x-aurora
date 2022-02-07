@@ -1,0 +1,2 @@
+# metatron-aurora
+Metatron Aurora lets you use an Apache Mesos cluster as a private cloud. It supports running long-running services, cron jobs, and ad-hoc jobs. Metatron Aurora aims to make it extremely quick and easy to take a built application and run it on machines in a cluster, with an emphasis on reliability. It provides basic operations to manage services running in a cluster, such as rolling upgrades.
